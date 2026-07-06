@@ -94,16 +94,7 @@ Using the second-order plant model, PID gains were calculated analytically via p
 
 ---
 
-## 6. Repository Structure (suggested)
 
-```
-├── simulink/              # QUARC/Simulink models (.mdl)
-├── matlab/                # MATLAB scripts for gain calculation, Bode/LQR analysis
-├── data/                  # Recorded response data (angle, voltage)
-├── figures/               # Response plots for each control stage
-├── report/                # Final lab report (PDF)
-└── README.md
-```
 
 ---
 
