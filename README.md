@@ -93,9 +93,6 @@ Using the second-order plant model, PID gains were calculated analytically via p
 - **Modern control techniques** — state-space modeling, controllability/observability analysis, LQR design
 
 
-
-
-
 ---
 
 ## References
