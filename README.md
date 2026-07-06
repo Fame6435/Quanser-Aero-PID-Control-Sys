@@ -92,7 +92,7 @@ Using the second-order plant model, PID gains were calculated analytically via p
 - **Classical control techniques** — PID tuning (empirical and pole-placement), second-order system approximation, frequency-domain stability analysis
 - **Modern control techniques** — state-space modeling, controllability/observability analysis, LQR design
 
----
+
 
 
 
